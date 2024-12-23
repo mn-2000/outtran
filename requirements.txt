@@ -1,5 +1,0 @@
-transformers
-albumentations
-opencv-python
-wandb
-tqdm
